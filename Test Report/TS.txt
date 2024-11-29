@@ -1,0 +1,43 @@
+Test#1: Activate 6.5 8.5 Cash 36.0 Regular Start Pump Pump Pump Pump Pump Receipt Credit Approved Cancel TurnOff
+Test#2: Activate 3 4 Cash 1 Regular Start Pump NoReceipt Credit Approved Regular Start Pump Pump Stop NoReceipt Cash 10.0 Diesel Cancel TurnOff
+Test#3: Activate 6 4 Credit Reject Credit Approved Cancel Cash 10 Diesel Start Stop Receipt TurnOff
+Test#4: Activate 4 5 TurnOff
+Test#5: Activate 3.0 4.0 Credit Reject Cash 5.0 Cancel Cash 10 Diesel Cancel Cash 4 Regular Start Pump Stop NoReceipt TurnOff
+Test#6: Activate 3.5 4.0 Credit Approved Cancel Credit Approved Diesel Cancel Cash 1 Regular Cancel Credit Reject TurnOff
+Test#7: Activate 3.0 4.0 Credit Approved Diesel Start Stop Receipt Cash 40 Diesel Start Pump Stop NoReceipt
+Test#8: Activate -3.0 4.0 Credit Reject Cancel Approved Cash 2 Regular Diesel Start Pump Stop NoReceipt Receipt TurnOff
+Test#9: Activate 3.0 4.0 Activate -3.0 4.0 Reject Cancel Approved Cash -2 Regular Diesel Start Pump Stop NoReceipt Receipt
+Test#10: Activate 3.0 4.0 Credit Approved Regular Start Activate -3.0 4.0 Reject Cancel Approved Cash -2 Regular Diesel Start NoReceipt Receipt
+Test#11: Activate 3.0 4.0 Credit Activate 3.0 4.0 Credit Cancel Cash 2 Regular Diesel Start Pump Stop NoReceipt Receipt TurnOff
+Test#12: Activate 3.0 4.0 Credit Approved Activate 3.0 4.0 Credit Reject Approved Cash 2 Start Pump Stop NoReceipt Receipt TurnOff
+Test#13: Activate 3.0 4.0 Credit Approved Regular Activate 3.0 4.0 Credit Reject Approved Cash 2 Regular Diesel Pump Stop NoReceipt Receipt TurnOff
+Test#14: Activate 3.0 4.0 Cash 5 Regular Start Activate 3.0 4.0 Credit Reject Cancel Approved Cash 2 Regular Diesel Start NoReceipt Receipt TurnOff
+Test#15: Activate 3.0 4.0 Cash 5 Regular Start Stop Activate 3.0 4.0 Credit Reject Cancel Approved Cash 2 Regular Diesel Start Pump Stop TurnOff
+Test#16: Activate 3.0 4.0 Cash 5 Regular Start Stop NoReceipt TurnOff Activate 3.0 4.0 Credit Reject Cancel Approved Cash 2 Regular Diesel Start Pump Stop NoReceipt Receipt TurnOff
+Test#17: Activate 3.0 4.0 Activate 3.0 4.0 Cash 20 Cancel TurnOff
+Test#18: Activate -3.0 4.0 Activate 3.0 4.0 Cash 20 Cancel TurnOff
+Test#19: Activate 3.0 -4.0 Activate 3.0 4.0 Cash 20 Cancel TurnOff
+Test#20: Activate -3.0 -4.0 Activate 3.0 4.0 Cash 20 Cancel TurnOff
+Test#21: Activate 3.0 4.0 Activate 3.0 4.0 Cash 20 Cancel TurnOff
+Test#22: Activate 3.0 4.0 Activate -3.0 4.0 Cash 20 Cancel TurnOff
+Test#23: Activate 3.0 4.0 Activate 3.0 -4.0 Cash 20 Cancel TurnOff
+Test#24: Activate 3.0 4.0 Activate -3.0 -4.0 Cash 20 Cancel TurnOff
+Test#25: Activate 3.0 4.0 Activate 3.0 4.0 Credit Credit Reject
+Test#26: Activate 3.0 4.0 Activate 3.0 4.0 Credit Credit Reject Reject
+Test#27: Activate 3.0 4.0 Activate 3.0 4.0 Credit Credit Approved Cancel
+Test#28: Activate 3.0 4.0 Activate 3.0 4.0 Credit Credit Approved Cancel Cancel
+Test#29: Activate 5.0 6.0 Credit Approved Regular Start Pump Pump Stop Receipt Cash 20 Regular Cancel Credit
+Test#30: Activate 5.0 6.0 Credit Approved Cancel
+Test#31: Activate 3.5 4.5 Approved Cash -20 Regular Receipt TurnOff
+Test#32: Activate 3.3 4.4 Credit Approved Regular Start Cash -20 Stop NoReceipt TurnOff
+Test#33: Activate 2.6 3.1 Credit Regular Diesel Start Approved Regular Cancel TurnOff
+Test#34: Activate 5.0 6.0 Credit Approved Regular Start Pump Pump Stop Receipt Cash 20 Diesel
+Test#35: Activate 5.0 6.0 Credit Approved Regular Start Pump Stop
+Test#36: Activate 3 3.5 Pump Stop NoReceipt TurnOff
+Test#37: Activate 3 4 Cash 20 Cancel Credit Approved Regular Start Pump Stop
+Test#38: Activate 3.0 4.0 Credit Reject Cash 5 Cancel Cash 10 Diesel Cancel Cash 4 Regular Start Pump Stop NoReceipt TurnOff
+Test#39: Activate 3.3 4.4 Cash 1.1 Regular Start Pump NoReceipt Credit
+Test#40: Activate 3.0 4.0 Cash 2.0 Diesel Start Pump Pump Pump Pump Stop
+Test#41: Activate 3.0 4.0 Credit Reject Cash 5 Cancel Cash 10 Diesel Cancel Cash -3 Regular Start Pump Stop NoReceipt TurnOff
+Test#42: Activate 3.0 4.0 Credit Approved Diesel Start Pump Pump Receipt TurnOff
+$$
