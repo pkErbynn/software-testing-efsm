@@ -1,6 +1,6 @@
 package org.example;
 
-// Original untouched source-code that needs to be tested
+// Original untouched source-code that needs to be tested, with test-oriented methods added
 
 public class GasPump {
     private float Rprice;
@@ -11,6 +11,47 @@ public class GasPump {
     private float total;
     private float cash;
     private int k;
+
+    // Test-oriented method
+    public final float showTotal(){
+        return this.total;
+    }
+
+    // Test-oriented method
+    public final float showK(){
+        return this.k;
+    }
+
+    // Test-oriented method
+    public final float showL(){
+        return this.L;
+    }
+
+    // Test-oriented method
+    public final float showW(){
+        return this.w;
+    }
+
+    // Test-oriented method
+    public final float showCash(){
+        return this.cash;
+    }
+
+    // Test-oriented method
+    public final float showPrice(){
+        return this.price;
+    }
+
+    // Test-oriented method
+    public final float showRprice(){
+        return this.Rprice;
+    }
+
+    // Test-oriented method
+    public final float showDprice(){
+        return this.Dprice;
+    }
+
 
     public GasPump() {
         Rprice = 0;
@@ -117,7 +158,7 @@ public class GasPump {
             System.out.print("REGULAR IS SELECTED.");
             System.out.print("\n");
             price = Rprice;
-            if (w==1) price=1.1*price;
+            if (w==1) price= (float) (1.1*price);   // (float)
             return 1;
         } else {
             return 0;
@@ -193,6 +234,7 @@ public class GasPump {
             ;
         }
         ;
+
         return 0;
     }
 
